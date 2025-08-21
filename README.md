@@ -4,10 +4,13 @@
 
 - Main language C++.
 
+
 - Bookshop:
 
 - D3D11.
 - DirectXTex or DirectXTK.
+
+
 
 
 👷🏽‍♀️ ⚠️ Personal project in development, please do not use. ⚠️ 👷🏽‍♀️
